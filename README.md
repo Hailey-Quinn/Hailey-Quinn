@@ -1,16 +1,12 @@
-### Greetings ###
+# Salutations #
 
-<!--
-**Hailey-Quinn/Hailey-Quinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ego ##
+- primary focus - self improvement
+- secondary focus  - finding the path of least resistance
+- currently learning - wizardry 
+- fun fact - wise man say, forgiveness is divine but, never pay full price for late pizza
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### projects ###
+- full stack website
+- get rich
+- give something back
